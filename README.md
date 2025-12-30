@@ -32,7 +32,7 @@ git version 2.47.0
 Once you have git installed configure your name and email:
 
 ```bash
-$ git config --global user.email "you@atlasschool.com"
+$ git config --global user.email "you@atlasstudents.com"
 $ git config --global user.name "Your Name"
 ```
 
@@ -291,3 +291,4 @@ Create your profile README. Let the world know a little bit more about you! What
 - [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
 - [Education community forum](https://education.github.community/)
 - [GitHub community forum](https://github.community/)
+
