@@ -1,0 +1,33 @@
+# Ignore Python virtual environments
+.venv/
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore OneDrive sync junk
+*.tmp
+*.lnk
+*.DS_Store
+Thumbs.db
+
+# Ignore Jupyter runtime files
+.jupyter/
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore build artifacts
+build/
+dist/
+*.egg-info/
